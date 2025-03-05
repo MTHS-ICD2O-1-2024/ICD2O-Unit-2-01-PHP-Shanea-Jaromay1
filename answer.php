@@ -11,7 +11,9 @@
   <link
     rel="stylesheet"
     href="https://fonts.googleapis.com/icon?family=Material+Icons" />
-  <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-indigo.min.css" />
+  <link
+    rel="stylesheet"
+    href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css" />
   <link rel="stylesheet" href="./css/style.css" />
   <link
     rel="apple-touch-icon"
@@ -41,21 +43,13 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/Hello_World_Brian_Kernighan_1978.jpg" alt="Hello,World!" />
+        <img src="./images/Hello_World_Brian_Kernighan_1978.jpg" alt="laptop image" />
       </div>
-      <div class="page-content">Click the button below.</div>
+      <div class="page-content">Hello, World!</div>
       <br />
-      <!-- Simple Textfield for integers-->
-      <form action="answer.php" method="GET">
-        <br />
-        <!-- Accent-colored raised button with ripple -->
-        <button
-          class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent"
-          type="submit">
-          Click here
-        </button>
-      </form>
-      <br />
+      <div class="page-content-answer">
+        <a href="./index.php">Return ...</a>
+      </div>
     </main>
   </div>
 </body>
