@@ -6,14 +6,14 @@
   <meta charset="utf-8" />
   <meta name="description" content="The 'Hello, World!' program, PHP" />
   <meta name="keywords" content="mths, icd2o" />
-  <meta name="author" content="Mr. Coxall" />
+  <meta name="author" content="Shanea Jaromay" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link
     rel="stylesheet"
     href="https://fonts.googleapis.com/icon?family=Material+Icons" />
   <link
     rel="stylesheet"
-    href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css" />
+    href="https://code.getmdl.io/1.3.0/material.blue_grey-indigo.min.css" />
   <link rel="stylesheet" href="./css/style.css" />
   <link
     rel="apple-touch-icon"
@@ -43,7 +43,7 @@
     </header>
     <main class="mdl-layout__content">
       <div class="right-image">
-        <img src="./images/Hello_World_Brian_Kernighan_1978.jpg" alt="laptop image" />
+        <img src="./images/Hello_World_Brian_Kernighan_1978.jpg" alt="Hello, World!" />
       </div>
       <div class="page-content">Hello, World!</div>
       <br />
